@@ -21,7 +21,7 @@ public class MiniProject {
 			System.out.println("10.months");
 			System.out.println("11.positive number");
 			System.out.println("12.marrige eligibility");
-			System.out.println("Git");
+			System.out.println("Git2");
 
 			
 			System.out.println("Please select your choice of Program : ");
